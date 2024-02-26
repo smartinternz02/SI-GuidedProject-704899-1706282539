@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Craferia_MyAccount_test_002,Chrome 121.0.0.0,,,19-02-2024 17:51:07,19-02-2024 17:51:26,19.099s,PASSED
+,,,,,,,
+Test Cases/testcase_002,Chrome 121.0.0.0,,,19-02-2024 17:51:07,19-02-2024 17:51:26,18.759s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,19-02-2024 17:51:08,19-02-2024 17:51:11,2.969s,PASSED
+"navigateToUrl(""https://craferia.com/"")",Chrome 121.0.0.0,,,19-02-2024 17:51:11,19-02-2024 17:51:14,3.640s,PASSED
+"setText(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s""), ""bamboo"")",Chrome 121.0.0.0,,,19-02-2024 17:51:14,19-02-2024 17:51:15,0.924s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s""), Keys.chord(ENTER))",Chrome 121.0.0.0,,,19-02-2024 17:51:15,19-02-2024 17:51:18,2.306s,PASSED
+"click(findTestObject(""Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/img_attachment-woocommerce_thumbnail size-w_8f6098""))",Chrome 121.0.0.0,,,19-02-2024 17:51:18,19-02-2024 17:51:19,1.131s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:19,19-02-2024 17:51:19,0.534s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/i_vi-flag-64 flag-us""))",Chrome 121.0.0.0,,,19-02-2024 17:51:19,19-02-2024 17:51:21,1.278s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:21,19-02-2024 17:51:22,0.857s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:22,19-02-2024 17:51:22,0.401s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:22,19-02-2024 17:51:22,0.369s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:22,19-02-2024 17:51:23,0.490s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:23,19-02-2024 17:51:23,0.495s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/button_Add to cart""))",Chrome 121.0.0.0,,,19-02-2024 17:51:23,19-02-2024 17:51:24,0.894s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/span_wmc-current-currency""))",Chrome 121.0.0.0,,,19-02-2024 17:51:24,19-02-2024 17:51:25,1.080s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Eco-friendly Bamboo Chair table so_096b9e/a_Dismiss""))",Chrome 121.0.0.0,,,19-02-2024 17:51:25,19-02-2024 17:51:26,0.416s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,19-02-2024 17:51:26,19-02-2024 17:51:26,0.430s,PASSED

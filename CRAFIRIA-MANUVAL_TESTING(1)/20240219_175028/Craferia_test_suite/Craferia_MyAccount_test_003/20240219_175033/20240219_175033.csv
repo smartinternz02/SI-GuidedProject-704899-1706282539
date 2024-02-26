@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Craferia_MyAccount_test_003,Chrome 121.0.0.0,,,19-02-2024 17:51:33,19-02-2024 17:52:26,52.366s,PASSED
+,,,,,,,
+Test Cases/testcase_003,Chrome 121.0.0.0,,,19-02-2024 17:51:34,19-02-2024 17:52:26,52.041s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,19-02-2024 17:51:34,19-02-2024 17:51:37,2.961s,PASSED
+"navigateToUrl(""https://craferia.com/"")",Chrome 121.0.0.0,,,19-02-2024 17:51:37,19-02-2024 17:51:42,4.967s,PASSED
+"setText(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s""), ""bamboo"")",Chrome 121.0.0.0,,,19-02-2024 17:51:42,19-02-2024 17:51:43,0.911s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s""), Keys.chord(ENTER))",Chrome 121.0.0.0,,,19-02-2024 17:51:43,19-02-2024 17:51:44,1.074s,PASSED
+"click(findTestObject(""Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Add to cart""))",Chrome 121.0.0.0,,,19-02-2024 17:51:44,19-02-2024 17:51:45,0.593s,PASSED
+"click(findTestObject(""Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Cart""))",Chrome 121.0.0.0,,,19-02-2024 17:51:45,19-02-2024 17:51:57,12.370s,PASSED
+"click(findTestObject(""Object Repository/Page_Cart - Handicrafts Online, Indian Hand_f49c5a/a_Proceed to checkout""))",Chrome 121.0.0.0,,,19-02-2024 17:51:57,19-02-2024 17:52:00,2.512s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/h1_Checkout""))",Chrome 121.0.0.0,,,19-02-2024 17:52:00,19-02-2024 17:52:01,0.964s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/h1_Checkout""), ""Checkout"")",Chrome 121.0.0.0,,,19-02-2024 17:52:01,19-02-2024 17:52:01,0.395s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_first_name""), ""Yuv"")",Chrome 121.0.0.0,,,19-02-2024 17:52:01,19-02-2024 17:52:02,0.783s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_last_name""), ""Raj"")",Chrome 121.0.0.0,,,19-02-2024 17:52:02,19-02-2024 17:52:03,0.748s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_company""), ""isshduwh"")",Chrome 121.0.0.0,,,19-02-2024 17:52:03,19-02-2024 17:52:03,0.749s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/span_India""))",Chrome 121.0.0.0,,,19-02-2024 17:52:03,19-02-2024 17:52:04,0.455s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_address_1""), ""jijsgugug"")",Chrome 121.0.0.0,,,19-02-2024 17:52:04,19-02-2024 17:52:05,0.924s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_address_2""), ""jhsduhwudhu"")",Chrome 121.0.0.0,,,19-02-2024 17:52:05,19-02-2024 17:52:06,0.868s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_city""), ""Mumbai"")",Chrome 121.0.0.0,,,19-02-2024 17:52:06,19-02-2024 17:52:07,0.853s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/span_Delhi""))",Chrome 121.0.0.0,,,19-02-2024 17:52:07,19-02-2024 17:52:07,0.541s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_postcode""), ""400043"")",Chrome 121.0.0.0,,,19-02-2024 17:52:07,19-02-2024 17:52:08,0.852s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_phone""), ""7666339728"")",Chrome 121.0.0.0,,,19-02-2024 17:52:08,19-02-2024 17:52:09,0.885s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/input_billing_email""), ""yuv@gmail.com"")",Chrome 121.0.0.0,,,19-02-2024 17:52:09,19-02-2024 17:52:10,0.871s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/button_Place order""))",Chrome 121.0.0.0,,,19-02-2024 17:52:10,19-02-2024 17:52:10,0.555s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/h1_Order received""))",Chrome 121.0.0.0,,,19-02-2024 17:52:10,19-02-2024 17:52:24,13.974s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/h1_Order received""), 0)",Chrome 121.0.0.0,,,19-02-2024 17:52:24,19-02-2024 17:52:25,0.336s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/header_Order received""))",Chrome 121.0.0.0,,,19-02-2024 17:52:25,19-02-2024 17:52:25,0.434s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/a_Dismiss""))",Chrome 121.0.0.0,,,19-02-2024 17:52:25,19-02-2024 17:52:25,0.440s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,19-02-2024 17:52:25,19-02-2024 17:52:26,0.431s,PASSED
