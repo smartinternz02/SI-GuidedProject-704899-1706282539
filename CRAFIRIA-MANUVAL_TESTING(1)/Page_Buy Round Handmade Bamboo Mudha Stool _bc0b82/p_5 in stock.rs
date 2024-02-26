@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_5 in stock</name>
+   <tag></tag>
+   <elementGuidId>32bb3462-d856-4046-ab34-ab9e9d38d65a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-5437']/div[2]/form/div/div/div[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.stock.in-stock</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f3eb95d7-624f-434c-a49c-d069e409eb68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stock in-stock</value>
+      <webElementGuid>819b5610-0e7b-4dd4-997f-bf1c21a3b4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5 in stock</value>
+      <webElementGuid>abf78f8c-ce00-4325-bb8a-8460adea724c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-5437&quot;)/div[@class=&quot;summary entry-summary&quot;]/form[@class=&quot;variations_form cart&quot;]/div[@class=&quot;single_variation_wrap&quot;]/div[@class=&quot;woocommerce-variation single_variation&quot;]/div[@class=&quot;woocommerce-variation-availability&quot;]/p[@class=&quot;stock in-stock&quot;]</value>
+      <webElementGuid>162bc260-3d0a-4ff3-9a5e-cb0f6cb4dafa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-5437']/div[2]/form/div/div/div[3]/p</value>
+      <webElementGuid>3bbeb808-3d1a-4d87-a658-82210293d609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>67b30958-b67a-49b3-8bc4-e04521336949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '5 in stock' or . = '5 in stock')]</value>
+      <webElementGuid>e07b1cd6-9b8f-4af6-be0f-bf904784e306</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
