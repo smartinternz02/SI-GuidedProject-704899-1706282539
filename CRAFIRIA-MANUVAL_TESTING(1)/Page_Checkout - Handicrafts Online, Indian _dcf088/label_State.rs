@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_State</name>
+   <tag></tag>
+   <elementGuidId>8c741fc2-3c00-4680-b1f2-84b59a18f91a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_state_field']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_state_field > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>47d4e485-f5b3-41eb-8688-e69692a08b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>billing_state</value>
+      <webElementGuid>d8344e2f-2911-4937-9d36-efb80e0e83c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State *</value>
+      <webElementGuid>8b8eea64-f084-4c69-9756-52a1f462dc0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_state_field&quot;)/label[1]</value>
+      <webElementGuid>b80f6b7f-a838-45e3-841c-f1f8453d4926</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='billing_state_field']/label</value>
+      <webElementGuid>ac063d42-fe70-4e6a-be0d-bbe7a7a004ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]/label</value>
+      <webElementGuid>2e9c4f8a-20f2-4cfb-865b-b866d6501872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'State *' or . = 'State *')]</value>
+      <webElementGuid>349ef651-979b-4ece-95e9-36e960df7fe8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

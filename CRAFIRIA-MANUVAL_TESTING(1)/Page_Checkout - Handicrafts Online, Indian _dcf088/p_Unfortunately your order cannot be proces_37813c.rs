@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Unfortunately your order cannot be proces_37813c</name>
+   <tag></tag>
+   <elementGuidId>9f690145-918d-416d-9c42-e9fe6a21c046</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-8']/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-notice.woocommerce-notice--error.woocommerce-thankyou-order-failed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a182e4b0-56bb-43bb-a2d4-09683295df0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-notice woocommerce-notice--error woocommerce-thankyou-order-failed</value>
+      <webElementGuid>d6988caa-9722-4462-b2e7-d0c93d855e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again.</value>
+      <webElementGuid>f664a0d2-354a-4086-8771-b6a89bc88482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-8&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-order&quot;]/p[@class=&quot;woocommerce-notice woocommerce-notice--error woocommerce-thankyou-order-failed&quot;]</value>
+      <webElementGuid>7902985a-8504-4050-9c1b-e3290553b7b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-8']/div/div/div/p</value>
+      <webElementGuid>079adc7a-d73a-4084-9229-aabd4678a26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f023bebc-0dfe-4159-bd01-62de3ca7dd03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again.' or . = 'Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again.')]</value>
+      <webElementGuid>848d2f4d-5950-4536-a65d-e7d58ff199af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
