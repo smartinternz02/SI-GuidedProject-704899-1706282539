@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_vi-flag-64 flag-us</name>
+   <tag></tag>
+   <elementGuidId>db125796-7db9-4234-bc66-2630401bb3c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woocommerce-multi-currency-1']/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8f4194b3-4ca4-4b4d-ae08-69ae02baa185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vi-flag-64 flag-us </value>
+      <webElementGuid>1c056437-a26d-4ff1-a5d1-b05b82085fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce-multi-currency-1&quot;)/div[@class=&quot;wmc-currency-wrapper&quot;]/div[@class=&quot;wmc-sub-currency wmc-show-up&quot;]/div[@class=&quot;wmc-currency&quot;]/a[@class=&quot;wmc-currency-redirect&quot;]/i[@class=&quot;vi-flag-64 flag-us&quot;]</value>
+      <webElementGuid>603a0f9e-9c00-46c0-8859-7d9ac9b89722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woocommerce-multi-currency-1']/div/div/div/a/i</value>
+      <webElementGuid>1db53700-c9d3-4a6c-938e-bfbf72ad3dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>89b6dba6-5725-493b-a91a-843c54551c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
