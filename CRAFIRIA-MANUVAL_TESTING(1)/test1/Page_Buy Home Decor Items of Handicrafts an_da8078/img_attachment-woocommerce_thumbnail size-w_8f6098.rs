@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_attachment-woocommerce_thumbnail size-w_8f6098</name>
+   <tag></tag>
+   <elementGuidId>47d0f207-0a24-4317-aaf2-02f89eb3db78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dswbm-sliders-28180']/div[2]/div/ul/li[14]/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>dcdf9b81-76cf-4169-9f9b-4c883ca15442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://craferia.com/wp-content/uploads/2023/08/HD-373BLACK-AA.jpg</value>
+      <webElementGuid>1c0bc7cc-b800-40c4-b4f9-ef0dec1ad4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
+      <webElementGuid>ec75aced-7efa-4c51-9912-b59081fd6881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Beautiful handicraft Ganesh T-Light Candle Holder/Stand for Home Decor</value>
+      <webElementGuid>8e7d4457-00f2-4604-8276-d9e5e0a9ded9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dswbm-sliders-28180&quot;)/div[@class=&quot;bx-wrapper&quot;]/div[@class=&quot;bx-viewport&quot;]/ul[@class=&quot;wbm-slider products&quot;]/li[@class=&quot;product type-product post-725 status-publish first instock product_cat-spiritual-figurines product_cat-lamps-lightings product_cat-under-500 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/div[@class=&quot;prod-img&quot;]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
+      <webElementGuid>9d4c1f29-3204-4e17-a256-594a0806aa22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dswbm-sliders-28180']/div[2]/div/ul/li[14]/a/div/img</value>
+      <webElementGuid>c9d4e3d7-3288-47e0-92fd-976d249aa146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Beautiful handicraft Ganesh T-Light Candle Holder/Stand for Home Decor'])[2]</value>
+      <webElementGuid>356d70c2-5a79-47ec-81d7-0c519d51b0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[14]/a/div/img</value>
+      <webElementGuid>e305037f-73a4-4a45-8df5-84b9b1d3df0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://craferia.com/wp-content/uploads/2023/08/HD-373BLACK-AA.jpg' and @alt = 'Beautiful handicraft Ganesh T-Light Candle Holder/Stand for Home Decor']</value>
+      <webElementGuid>fb92d71e-0305-4aa6-96f7-565edbfd642a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
