@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Craferia_MyAccount_test_001" time="16.469" tests="1" failures="0" errors="0">
+   <testsuite name="Craferia_MyAccount_test_001" tests="1" failures="0" errors="0" time="16.469" skipped="0" timestamp="19-02-2024T20:26:21" hostname="Asus - LAPTOP-IGM6NPC4" id="Test Suites/Craferia_test_suite/Craferia_MyAccount_test_001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Asus\\git\\smartproject\\Reports\\20240219_202606\\Craferia_test_suite\\Craferia_MyAccount_test_001\\20240219_202607"/>
+         <property name="logFiles" value="C:\\Users\\Asus\\git\\smartproject\\Reports\\20240219_202606\\Craferia_test_suite\\Craferia_MyAccount_test_001\\20240219_202607\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Asus - LAPTOP-IGM6NPC4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="sessionId" value="dd5ff62a5207b89e1953d087cc13dc09"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/testcase_001" time="16.159" classname="Test Cases/testcase_001" status="PASSED">
+         <system-out><![CDATA[19-02-2024T20:26:21 - [TEST_CASE][PASSED] - Test Cases/testcase_001: Test Cases/testcase_001
+
+19-02-2024T20:26:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-02-2024T20:26:22 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+19-02-2024T20:26:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-02-2024T20:26:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-02-2024T20:26:25 - [TEST_STEP][PASSED] - navigateToUrl("https://craferia.com/"): Navigate to 'https://craferia.com/' successfully
+
+19-02-2024T20:26:30 - [MESSAGE][PASSED] - Navigate to 'https://craferia.com/' successfully
+
+19-02-2024T20:26:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account")): Object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account' is clicked on
+
+19-02-2024T20:26:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account' is clicked on
+
+19-02-2024T20:26:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username"), "yuvrajdhariwal222@gmail.com"): Text 'yuvrajdhariwal222@gmail.com' is set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username'
+
+19-02-2024T20:26:34 - [MESSAGE][PASSED] - Text 'yuvrajdhariwal222@gmail.com' is set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username'
+
+19-02-2024T20:26:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password"), "oXRTEwxsOWOjN91PzDY2lg=="): Text ****** has been set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password'
+
+19-02-2024T20:26:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password'
+
+19-02-2024T20:26:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme' is clicked on
+
+19-02-2024T20:26:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme' is clicked on
+
+19-02-2024T20:26:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in' is clicked on
+
+19-02-2024T20:26:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in' is clicked on
+
+19-02-2024T20:26:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' is clicked on
+
+19-02-2024T20:26:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' is clicked on
+
+19-02-2024T20:26:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3"), "Unknown email address. Check again or try your username."): Actual text and expected text of test object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' are matched.
+
+19-02-2024T20:26:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' are matched.
+
+19-02-2024T20:26:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss' is clicked on
+
+19-02-2024T20:26:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss' is clicked on
+
+19-02-2024T20:26:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+19-02-2024T20:26:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-02-2024T20:26:21 - [TEST_SUITE][PASSED] - Craferia_MyAccount_test_001: Test Cases/testcase_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
