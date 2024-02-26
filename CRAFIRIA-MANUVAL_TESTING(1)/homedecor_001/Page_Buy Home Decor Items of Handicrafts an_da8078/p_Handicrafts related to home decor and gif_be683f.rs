@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Handicrafts related to home decor and gif_be683f</name>
+   <tag></tag>
+   <elementGuidId>93e015d0-6357-48a7-91a7-6e80db599a0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/p[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7d6f7352-8102-44df-af38-4a396cbed505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Handicrafts related to home decor and gifts have a unique charm that adds a personal touch and a sense of artistry to any space. Whether it's hand-painted pottery, intricately woven tapestries, or hand-carved wooden sculptures, these handicrafts showcase the skill and creativity of talented artisans from around the world.</value>
+      <webElementGuid>9228da6d-ad8a-4f7b-942f-6b93a74a28d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/p[4]</value>
+      <webElementGuid>8691d00c-0187-4c95-bf21-9ccf225dd257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/p[4]</value>
+      <webElementGuid>7a5d8efd-23a0-49fd-9c18-82553311e192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>b64db260-0db2-47e4-ab66-2014a1144745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Handicrafts related to home decor and gifts have a unique charm that adds a personal touch and a sense of artistry to any space. Whether it&quot; , &quot;'&quot; , &quot;s hand-painted pottery, intricately woven tapestries, or hand-carved wooden sculptures, these handicrafts showcase the skill and creativity of talented artisans from around the world.&quot;) or . = concat(&quot;Handicrafts related to home decor and gifts have a unique charm that adds a personal touch and a sense of artistry to any space. Whether it&quot; , &quot;'&quot; , &quot;s hand-painted pottery, intricately woven tapestries, or hand-carved wooden sculptures, these handicrafts showcase the skill and creativity of talented artisans from around the world.&quot;))]</value>
+      <webElementGuid>a0f2db98-e779-44e4-8cc7-d4500e60351f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
