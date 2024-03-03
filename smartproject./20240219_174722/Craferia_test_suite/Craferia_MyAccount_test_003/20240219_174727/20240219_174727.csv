@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Craferia_MyAccount_test_003,Chrome 121.0.0.0,,,19-02-2024 17:48:51,19-02-2024 17:49:21,29.630s,FAILED
+,,,,,,,
+Test Cases/testcase_003,Chrome 121.0.0.0,,,19-02-2024 17:48:51,19-02-2024 17:49:21,29.294s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,19-02-2024 17:48:52,19-02-2024 17:48:55,2.843s,PASSED
+"navigateToUrl(""https://craferia.com/"")",Chrome 121.0.0.0,,,19-02-2024 17:48:55,19-02-2024 17:49:11,16.093s,PASSED
+"setText(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s""), ""bamboo"")",Chrome 121.0.0.0,,,19-02-2024 17:49:11,19-02-2024 17:49:12,0.915s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s""), Keys.chord(ENTER))",Chrome 121.0.0.0,,,19-02-2024 17:49:12,19-02-2024 17:49:13,1.431s,PASSED
+"click(findTestObject(""Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Add to cart""))",Chrome 121.0.0.0,,,19-02-2024 17:49:13,19-02-2024 17:49:14,1.022s,PASSED
+"click(findTestObject(""Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Cart""))",Chrome 121.0.0.0,,,19-02-2024 17:49:14,19-02-2024 17:49:21,6.347s,FAILED

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Craferia_MyAccount_test_001,Chrome 121.0.0.0,,,19-02-2024 17:44:06,19-02-2024 17:44:50,43.844s,PASSED
+,,,,,,,
+Test Cases/testcase_001,Chrome 121.0.0.0,,,19-02-2024 17:44:07,19-02-2024 17:44:50,43.010s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,19-02-2024 17:44:08,19-02-2024 17:44:18,9.244s,PASSED
+"navigateToUrl(""https://craferia.com/"")",Chrome 121.0.0.0,,,19-02-2024 17:44:18,19-02-2024 17:44:19,1.005s,PASSED
+"click(findTestObject(""Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account""))",Chrome 121.0.0.0,,,19-02-2024 17:44:19,19-02-2024 17:44:37,18.538s,PASSED
+"setText(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username""), ""yuvrajdhariwal222@gmail.com"")",Chrome 121.0.0.0,,,19-02-2024 17:44:37,19-02-2024 17:44:39,1.809s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password""), ""oXRTEwxsOWOjN91PzDY2lg=="")",Chrome 121.0.0.0,,,19-02-2024 17:44:39,19-02-2024 17:44:40,0.876s,PASSED
+"click(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme""))",Chrome 121.0.0.0,,,19-02-2024 17:44:40,19-02-2024 17:44:41,0.964s,PASSED
+"click(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in""))",Chrome 121.0.0.0,,,19-02-2024 17:44:41,19-02-2024 17:44:44,2.992s,PASSED
+"click(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3""))",Chrome 121.0.0.0,,,19-02-2024 17:44:44,19-02-2024 17:44:45,1.774s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3""), ""Unknown email address. Check again or try your username."")",Chrome 121.0.0.0,,,19-02-2024 17:44:45,19-02-2024 17:44:47,1.950s,PASSED
+"click(findTestObject(""Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss""))",Chrome 121.0.0.0,,,19-02-2024 17:44:47,19-02-2024 17:44:49,2.050s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,19-02-2024 17:44:49,19-02-2024 17:44:50,0.661s,PASSED
