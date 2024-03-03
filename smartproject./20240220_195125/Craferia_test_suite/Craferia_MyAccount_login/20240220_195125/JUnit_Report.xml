@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Craferia_MyAccount_login" time="26.002" tests="2" failures="0" errors="0">
+   <testsuite name="Craferia_MyAccount_login" tests="2" failures="0" errors="0" time="26.002" skipped="0" timestamp="20-02-2024T19:51:30" hostname="Asus - LAPTOP-IGM6NPC4" id="Test Suites/Craferia_test_suite/Craferia_MyAccount_login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Asus\\git\\smartproject\\Reports\\20240220_195125\\Craferia_test_suite\\Craferia_MyAccount_login\\20240220_195125"/>
+         <property name="logFiles" value="C:\\Users\\Asus\\git\\smartproject\\Reports\\20240220_195125\\Craferia_test_suite\\Craferia_MyAccount_login\\20240220_195125\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Asus - LAPTOP-IGM6NPC4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="sessionId" value="7da9f6a1442b8db2891904132265734c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/tc_craferia_login" time="12.637" classname="Test Cases/tc_craferia_login" status="PASSED">
+         <system-out><![CDATA[20-02-2024T19:51:30 - [TEST_CASE][PASSED] - Test Cases/tc_craferia_login: Test Cases/tc_craferia_login
+
+20-02-2024T19:51:31 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+20-02-2024T19:51:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+20-02-2024T19:51:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+20-02-2024T19:51:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+20-02-2024T19:51:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+20-02-2024T19:51:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+20-02-2024T19:51:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+20-02-2024T19:51:33 - [TEST_STEP][PASSED] - navigateToUrl("https://craferia.com/"): Navigate to 'https://craferia.com/' successfully
+
+20-02-2024T19:51:37 - [MESSAGE][PASSED] - Navigate to 'https://craferia.com/' successfully
+
+20-02-2024T19:51:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account")): Object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account' is clicked on
+
+20-02-2024T19:51:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account' is clicked on
+
+20-02-2024T19:51:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username"), "yuvrajdhariwal222@gmail.com"): Text 'yuvrajdhariwal222@gmail.com' is set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username'
+
+20-02-2024T19:51:40 - [MESSAGE][PASSED] - Text 'yuvrajdhariwal222@gmail.com' is set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username'
+
+20-02-2024T19:51:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password"), "oXRTEwxsOWOjN91PzDY2lg=="): Text ****** has been set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password'
+
+20-02-2024T19:51:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password'
+
+20-02-2024T19:51:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme' is clicked on
+
+20-02-2024T19:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme' is clicked on
+
+20-02-2024T19:51:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in' is clicked on
+
+20-02-2024T19:51:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in' is clicked on
+
+20-02-2024T19:51:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' is clicked on
+
+20-02-2024T19:51:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' is clicked on
+
+20-02-2024T19:51:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3"), "Unknown email address. Check again or try your username."): Actual text and expected text of test object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' are matched.
+
+20-02-2024T19:51:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' are matched.
+
+20-02-2024T19:51:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss' is clicked on
+
+20-02-2024T19:51:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss' is clicked on
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+20-02-2024T19:51:43 - [MESSAGE][PASSED] - Browser is closed
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tc_craferia_login" time="12.957" classname="Test Cases/tc_craferia_login" status="PASSED">
+         <system-out><![CDATA[20-02-2024T19:51:43 - [TEST_CASE][PASSED] - Test Cases/tc_craferia_login: Test Cases/tc_craferia_login
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+20-02-2024T19:51:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+20-02-2024T19:51:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+20-02-2024T19:51:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+20-02-2024T19:51:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+20-02-2024T19:51:44 - [TEST_STEP][PASSED] - navigateToUrl("https://craferia.com/"): Navigate to 'https://craferia.com/' successfully
+
+20-02-2024T19:51:51 - [MESSAGE][PASSED] - Navigate to 'https://craferia.com/' successfully
+
+20-02-2024T19:51:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account")): Object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account' is clicked on
+
+20-02-2024T19:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/a_My account' is clicked on
+
+20-02-2024T19:51:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username"), "yuvrajdhariwal222@gmail.com"): Text 'yuvrajdhariwal222@gmail.com' is set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username'
+
+20-02-2024T19:51:53 - [MESSAGE][PASSED] - Text 'yuvrajdhariwal222@gmail.com' is set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_username'
+
+20-02-2024T19:51:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password"), "oXRTEwxsOWOjN91PzDY2lg=="): Text ****** has been set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password'
+
+20-02-2024T19:51:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_password'
+
+20-02-2024T19:51:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme' is clicked on
+
+20-02-2024T19:51:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/input_rememberme' is clicked on
+
+20-02-2024T19:51:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in' is clicked on
+
+20-02-2024T19:51:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/button_Log in' is clicked on
+
+20-02-2024T19:51:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' is clicked on
+
+20-02-2024T19:51:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' is clicked on
+
+20-02-2024T19:51:55 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3"), "Unknown email address. Check again or try your username."): Actual text and expected text of test object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' are matched.
+
+20-02-2024T19:51:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/li_Unknown email address. Check again or tr_bf33d3' are matched.
+
+20-02-2024T19:51:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss")): Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss' is clicked on
+
+20-02-2024T19:51:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My account - Handicrafts Online, India_2ab468/a_Dismiss' is clicked on
+
+20-02-2024T19:51:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+20-02-2024T19:51:56 - [MESSAGE][PASSED] - Browser is closed
+
+20-02-2024T19:51:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+20-02-2024T19:51:56 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+20-02-2024T19:51:56 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[20-02-2024T19:51:30 - [TEST_SUITE][PASSED] - Craferia_MyAccount_login: Test Cases/tc_craferia_login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

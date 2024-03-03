@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Craferia_MyAccount_test_003" time="47.776" tests="1" failures="0" errors="0">
+   <testsuite name="Craferia_MyAccount_test_003" tests="1" failures="0" errors="0" time="47.776" skipped="0" timestamp="19-02-2024T23:24:16" hostname="Asus - LAPTOP-IGM6NPC4" id="Test Suites/Craferia_test_suite/Craferia_MyAccount_test_003">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Asus\\git\\smartproject\\Reports\\20240219_232250\\Craferia_test_suite\\Craferia_MyAccount_test_003\\20240219_232255"/>
+         <property name="logFiles" value="C:\\Users\\Asus\\git\\smartproject\\Reports\\20240219_232250\\Craferia_test_suite\\Craferia_MyAccount_test_003\\20240219_232255\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Asus - LAPTOP-IGM6NPC4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="sessionId" value="1d88990d3a892baa2fddd3e948385717"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/testcase_003" time="47.24" classname="Test Cases/testcase_003" status="PASSED">
+         <system-out><![CDATA[19-02-2024T23:24:17 - [TEST_CASE][PASSED] - Test Cases/testcase_003: Test Cases/testcase_003
+
+19-02-2024T23:24:17 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+19-02-2024T23:24:17 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+19-02-2024T23:24:17 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+19-02-2024T23:24:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-02-2024T23:24:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-02-2024T23:24:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-02-2024T23:24:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-02-2024T23:24:21 - [TEST_STEP][PASSED] - navigateToUrl("https://craferia.com/"): Navigate to 'https://craferia.com/' successfully
+
+19-02-2024T23:24:42 - [MESSAGE][PASSED] - Navigate to 'https://craferia.com/' successfully
+
+19-02-2024T23:24:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s"), "bamboo"): Text 'bamboo' is set on object 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s'
+
+19-02-2024T23:24:43 - [MESSAGE][PASSED] - Text 'bamboo' is set on object 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s'
+
+19-02-2024T23:24:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s'
+
+19-02-2024T23:24:48 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Handicrafts Online, Indian Handicraft _c8b31e/input_s'
+
+19-02-2024T23:24:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Add to cart")): Object: 'Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Add to cart' is clicked on
+
+19-02-2024T23:24:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_Add to cart' is clicked on
+
+19-02-2024T23:24:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_View cart")): Object: 'Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_View cart' is clicked on
+
+19-02-2024T23:24:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_You searched for bamboo - Handicrafts _82fa81/a_View cart' is clicked on
+
+19-02-2024T23:24:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cart - Handicrafts Online, Indian Hand_f49c5a/a_Proceed to checkout")): Object: 'Object Repository/Page_Cart - Handicrafts Online, Indian Hand_f49c5a/a_Proceed to checkout' is clicked on
+
+19-02-2024T23:25:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cart - Handicrafts Online, Indian Hand_f49c5a/a_Proceed to checkout' is clicked on
+
+19-02-2024T23:25:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/span_Delhi")): Object: 'Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/span_Delhi' is clicked on
+
+19-02-2024T23:25:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/span_Delhi' is clicked on
+
+19-02-2024T23:25:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/button_Place order")): Object: 'Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/button_Place order' is clicked on
+
+19-02-2024T23:25:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout - Handicrafts Online, Indian _dcf088/button_Place order' is clicked on
+
+19-02-2024T23:25:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+19-02-2024T23:25:04 - [MESSAGE][PASSED] - Browser is closed
+
+19-02-2024T23:25:04 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+19-02-2024T23:25:04 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+19-02-2024T23:25:04 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-02-2024T23:24:16 - [TEST_SUITE][PASSED] - Craferia_MyAccount_test_003: Test Cases/testcase_003]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
