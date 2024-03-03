@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select options</name>
+   <tag></tag>
+   <elementGuidId>8503f0b9-4ba7-44fa-966e-6b207ca74198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-5437.status-publish.instock.product_cat-mudha-stools.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-variable > a.button.product_type_variable.add_to_cart_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>abb6128c-598d-433b-8d93-dc84bf56d1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/round-handmade-mudha-set-for-home-office-garden-outdoor/</value>
+      <webElementGuid>b2892db2-b9e7-4a7f-ac43-316a5e5dc524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d1e8c9dc-003d-45a3-bf90-7133a9c25de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_variable add_to_cart_button</value>
+      <webElementGuid>ec71684c-e5f9-4ea0-892a-ea0da4bcc756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>5437</value>
+      <webElementGuid>479f3b86-344b-48dd-a58b-07796733c98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_sku</name>
+      <type>Main</type>
+      <value>Blue_mudha</value>
+      <webElementGuid>9c1c7448-2589-4f36-8838-a0ab60acb410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select options for “Round Handmade  Mudha Set For Home Office Garden Outdoor”</value>
+      <webElementGuid>3fee396f-3798-45e8-ad60-fd99486f4569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>This product has multiple variants. The options may be chosen on the product page</value>
+      <webElementGuid>7366da19-3455-4665-b2a6-152c0efeb44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>244e7787-7ed2-4f9e-a418-cf4462416a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select options</value>
+      <webElementGuid>e748f4d8-bc5e-4a39-bfb9-c8ee0541f5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-5437 status-publish instock product_cat-mudha-stools has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;button product_type_variable add_to_cart_button&quot;]</value>
+      <webElementGuid>c4f94fc1-ded0-470c-b6f0-720b528413f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a[2]</value>
+      <webElementGuid>364ab653-bfbd-49de-bd28-d533e8cf2640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select options')])[2]</value>
+      <webElementGuid>525897c1-a471-4bca-a1a9-42ee637691ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://craferia.com/round-handmade-mudha-set-for-home-office-garden-outdoor/')])[2]</value>
+      <webElementGuid>eb8673f9-697c-4650-97c2-f43f483a2e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a[2]</value>
+      <webElementGuid>8384286e-a956-4b86-909c-6eb64cdfd21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/round-handmade-mudha-set-for-home-office-garden-outdoor/' and (text() = 'Select options' or . = 'Select options')]</value>
+      <webElementGuid>3acb100a-afbb-427b-ac4c-b57c27cc2ac2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
